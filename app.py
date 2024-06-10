@@ -24,3 +24,4 @@ else:
     print("não posso apagar o que não existe")
 
 print("hellow moto :/ :)")
+print("olá")
