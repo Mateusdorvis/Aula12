@@ -22,3 +22,5 @@ if os.path.exists("Aula12/text3.txt"):
     os.remove("Aula12/text3.txt")
 else:
     print("não posso apagar o que não existe")
+
+print("hellow moto :/ :)")
