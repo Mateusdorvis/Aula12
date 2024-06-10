@@ -1,0 +1,5 @@
+casa
+barco
+cachorro
+pop
+
